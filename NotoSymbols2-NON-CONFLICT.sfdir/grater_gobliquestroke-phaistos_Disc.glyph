@@ -1,0 +1,12 @@
+StartChar: grater_gobliquestroke-phaistosDisc
+Encoding: 1114154 -1 1797
+Width: 459
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 290 50 basechar 0
+LayerCount: 2
+Fore
+Refer: 1796 66041 N 1 0 0 1 0 0 3
+Refer: 1969 66045 N 1 0 0 1 290 50 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101F9 u101FD
+EndChar

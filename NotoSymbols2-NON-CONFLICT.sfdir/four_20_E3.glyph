@@ -1,0 +1,12 @@
+StartChar: four_20E3
+Encoding: 1114165 -1 1811
+Width: 1102
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-1" 551 715 basechar 0
+LayerCount: 2
+Fore
+Refer: 74 52 N 1 0 0 1 0 0 3
+Refer: 1284 8419 N 1 0 0 1 551 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 0 subtable" four uni20E3
+EndChar

@@ -1,0 +1,12 @@
+StartChar: vine_gobliquestroke-phaistosDisc
+Encoding: 1114148 -1 1785
+Width: 492
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 316 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1784 66035 N 1 0 0 1 0 0 3
+Refer: 1969 66045 N 1 0 0 1 316 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101F3 u101FD
+EndChar

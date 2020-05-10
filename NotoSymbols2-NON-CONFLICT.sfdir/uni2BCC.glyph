@@ -1,0 +1,14 @@
+StartChar: uni2BCC
+Encoding: 11212 11212 941
+Width: 895
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+447 -81 m 1,0,1
+ 382 278 382 278 24 342 c 1,2,3
+ 382 406 382 406 447 765 c 1,4,5
+ 513 406 513 406 870 342 c 1,6,7
+ 511 277 511 277 447 -81 c 1,0,1
+EndSplineSet
+EndChar

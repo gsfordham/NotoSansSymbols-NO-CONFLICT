@@ -1,0 +1,12 @@
+StartChar: carpentryPlane_gobliquestroke-phaistosDisc
+Encoding: 1114131 -1 1751
+Width: 583
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 350 40 basechar 0
+LayerCount: 2
+Fore
+Refer: 1750 66018 N 1 0 0 1 0 0 3
+Refer: 1969 66045 N 1 0 0 1 350 40 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101E2 u101FD
+EndChar

@@ -1,0 +1,10 @@
+StartChar: space_u102e0
+Encoding: 1114175 -1 1880
+Width: 639
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1630 66272 N 1 0 0 1 304 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" u102e0 space
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" space u102e0
+EndChar

@@ -1,0 +1,12 @@
+StartChar: tattooedHead_gobliquestroke-phaistosDisc
+Encoding: 1114115 -1 1719
+Width: 499
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 308 50 basechar 0
+LayerCount: 2
+Fore
+Refer: 1718 66002 N 1 0 0 1 0 0 3
+Refer: 1969 66045 N 1 0 0 1 308 50 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101D2 u101FD
+EndChar

@@ -1,0 +1,20 @@
+StartChar: u102f5
+Encoding: 66293 66293 1651
+Width: 911
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-0" 456 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+201 97 m 1,0,-1
+ 496 525 l 1,1,-1
+ 146 531 l 1,2,-1
+ 147 621 l 1,3,-1
+ 666 612 l 1,4,-1
+ 373 188 l 1,5,-1
+ 764 190 l 1,6,-1
+ 765 100 l 1,7,-1
+ 201 97 l 1,0,-1
+EndSplineSet
+EndChar

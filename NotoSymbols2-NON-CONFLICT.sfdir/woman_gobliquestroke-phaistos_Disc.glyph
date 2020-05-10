@@ -1,0 +1,12 @@
+StartChar: woman_gobliquestroke-phaistosDisc
+Encoding: 1114118 -1 1725
+Width: 486
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 263 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1724 66005 N 1 0 0 1 0 0 3
+Refer: 1969 66045 N 1 0 0 1 263 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101D5 u101FD
+EndChar

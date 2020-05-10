@@ -1,0 +1,27 @@
+StartChar: asterisk
+Encoding: 42 42 80
+Width: 1102
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 551 715 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+609 298 m 1,0,-1
+ 550 409 l 1,1,-1
+ 493 299 l 1,2,-1
+ 419 343 l 1,3,-1
+ 494 441 l 1,4,-1
+ 378 457 l 1,5,-1
+ 396 537 l 1,6,-1
+ 516 506 l 1,7,-1
+ 506 632 l 1,8,-1
+ 596 632 l 1,9,-1
+ 586 505 l 1,10,-1
+ 707 539 l 1,11,-1
+ 724 455 l 1,12,-1
+ 608 441 l 1,13,-1
+ 684 343 l 1,14,-1
+ 609 298 l 1,0,-1
+EndSplineSet
+EndChar
