@@ -1,0 +1,12 @@
+StartChar: bow_gobliquestroke-phaistosDisc
+Encoding: 1114123 -1 1708
+Width: 307
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 74 50 basechar 0
+LayerCount: 2
+Fore
+Refer: 1707 66010 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 74 50 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101DA u101FD
+EndChar

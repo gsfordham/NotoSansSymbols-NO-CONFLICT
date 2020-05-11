@@ -1,0 +1,19 @@
+StartChar: seven
+Encoding: 55 55 2242
+Width: 1102
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 551 715 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 82 m 1,0,-1
+ 630 536 l 1,1,-1
+ 369 536 l 1,2,-1
+ 369 631 l 1,3,-1
+ 753 631 l 1,4,-1
+ 753 558 l 1,5,-1
+ 546 82 l 1,6,-1
+ 424 82 l 1,0,-1
+EndSplineSet
+EndChar

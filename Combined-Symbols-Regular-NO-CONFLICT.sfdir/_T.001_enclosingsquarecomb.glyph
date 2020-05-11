@@ -1,0 +1,94 @@
+StartChar: T.001_enclosingsquarecomb
+Encoding: 1114212 -1 2207
+Width: 1422
+Flags: W
+TtInstrs:
+NPUSHB
+ 60
+ 0
+ 0
+ 0
+ 3
+ 5
+ 0
+ 3
+ 103
+ 0
+ 2
+ 8
+ 1
+ 1
+ 2
+ 1
+ 99
+ 6
+ 1
+ 4
+ 4
+ 5
+ 95
+ 0
+ 5
+ 5
+ 14
+ 77
+ 9
+ 1
+ 7
+ 7
+ 15
+ 7
+ 78
+ 8
+ 8
+ 0
+ 0
+ 8
+ 15
+ 8
+ 15
+ 14
+ 13
+ 12
+ 11
+ 10
+ 9
+ 7
+ 6
+ 5
+ 4
+ 0
+ 3
+ 0
+ 3
+ 17
+ 10
+ 7
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 -292 m 1,0,-1
+ 51 1028 l 1,1,-1
+ 1371 1028 l 1,2,-1
+ 1371 -292 l 1,3,-1
+ 51 -292 l 1,0,-1
+113 -230 m 1,4,-1
+ 1309 -230 l 1,5,-1
+ 1309 966 l 1,6,-1
+ 113 966 l 1,7,-1
+ 113 -230 l 1,4,-1
+667 0 m 1,8,-1
+ 667 635 l 1,9,-1
+ 444 635 l 1,10,-1
+ 444 714 l 1,11,-1
+ 979 714 l 1,12,-1
+ 979 635 l 1,13,-1
+ 757 635 l 1,14,-1
+ 757 0 l 1,15,-1
+ 667 0 l 1,8,-1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" T enclosingsquarecomb
+EndChar

@@ -1,0 +1,12 @@
+StartChar: dove_gobliquestroke-phaistosDisc
+Encoding: 1114144 -1 1750
+Width: 586
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 413 20 basechar 0
+LayerCount: 2
+Fore
+Refer: 1749 66031 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 413 20 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101EF u101FD
+EndChar

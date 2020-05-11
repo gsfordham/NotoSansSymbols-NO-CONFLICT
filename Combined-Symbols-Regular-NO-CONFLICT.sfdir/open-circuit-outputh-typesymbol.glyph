@@ -1,0 +1,60 @@
+StartChar: open-circuit-outputh-typesymbol
+Encoding: 9103 9103 870
+Width: 862
+Flags: W
+TtInstrs:
+NPUSHB
+ 31
+ 12
+ 11
+ 10
+ 8
+ 1
+ 5
+ 0
+ 73
+ 0
+ 1
+ 0
+ 0
+ 1
+ 87
+ 0
+ 1
+ 1
+ 0
+ 95
+ 2
+ 1
+ 0
+ 1
+ 0
+ 79
+ 17
+ 17
+ 18
+ 3
+ 6
+ 25
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+431 0 m 1,0,-1
+ 51 380 l 1,1,-1
+ 360 689 l 1,2,-1
+ 51 689 l 1,3,-1
+ 51 760 l 1,4,-1
+ 811 760 l 1,5,-1
+ 811 689 l 1,6,-1
+ 502 689 l 1,7,-1
+ 811 380 l 1,8,-1
+ 431 0 l 1,0,-1
+431 102 m 1,9,-1
+ 709 380 l 1,10,-1
+ 431 658 l 1,11,-1
+ 153 380 l 1,12,-1
+ 431 102 l 1,9,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,12 @@
+StartChar: club_gobliquestroke-phaistosDisc
+Encoding: 1114125 -1 1712
+Width: 276
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 138 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1711 66012 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 138 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101DC u101FD
+EndChar

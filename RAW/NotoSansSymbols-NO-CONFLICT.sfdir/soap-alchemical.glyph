@@ -1,0 +1,29 @@
+StartChar: soap-alchemical
+Encoding: 128852 128852 990
+Width: 681
+Flags: W
+TtInstrs:
+PUSHB_6
+ 6
+ 4
+ 2
+ 0
+ 2
+ 50
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+340 -10 m 1,0,-1
+ 50 299 l 1,1,-1
+ 340 608 l 1,2,-1
+ 631 299 l 1,3,-1
+ 340 -10 l 1,0,-1
+340 89 m 1,4,-1
+ 537 299 l 1,5,-1
+ 340 509 l 1,6,-1
+ 144 299 l 1,7,-1
+ 340 89 l 1,4,-1
+EndSplineSet
+EndChar

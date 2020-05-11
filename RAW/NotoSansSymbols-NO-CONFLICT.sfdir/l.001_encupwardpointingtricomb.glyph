@@ -1,0 +1,104 @@
+StartChar: l.001_encupwardpointingtricomb
+Encoding: 1114299 -1 243
+Width: 2028
+Flags: W
+TtInstrs:
+PUSHB_5
+ 5
+ 1
+ 2
+ 2
+ 74
+MPPEM
+PUSHB_1
+ 41
+LT
+IF
+NPUSHB
+ 20
+ 0
+ 1
+ 4
+ 1
+ 0
+ 1
+ 0
+ 99
+ 0
+ 2
+ 2
+ 16
+ 77
+ 5
+ 1
+ 3
+ 3
+ 15
+ 3
+ 78
+ELSE
+NPUSHB
+ 20
+ 0
+ 1
+ 4
+ 1
+ 0
+ 1
+ 0
+ 99
+ 0
+ 2
+ 2
+ 3
+ 95
+ 5
+ 1
+ 3
+ 3
+ 15
+ 3
+ 78
+EIF
+NPUSHB
+ 19
+ 6
+ 6
+ 0
+ 0
+ 6
+ 9
+ 6
+ 9
+ 8
+ 7
+ 4
+ 3
+ 0
+ 2
+ 0
+ 2
+ 6
+ 7
+ 22
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 -193 m 1,0,-1
+ 1014 1471 l 1,1,-1
+ 1977 -193 l 1,2,-1
+ 51 -193 l 1,0,-1
+159 -131 m 1,3,-1
+ 1869 -131 l 1,4,-1
+ 1014 1349 l 1,5,-1
+ 159 -131 l 1,3,-1
+970 0 m 1,6,-1
+ 970 760 l 1,7,-1
+ 1058 760 l 1,8,-1
+ 1058 0 l 1,9,-1
+ 970 0 l 1,6,-1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" l enclosingupwardpointingtrianglecomb
+EndChar

@@ -1,0 +1,21 @@
+StartChar: uni2BEE
+Encoding: 11246 11246 1953
+Width: 886
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+511 78 m 1,0,-1
+ 511 664 l 1,1,-1
+ 835 371 l 1,2,-1
+ 511 78 l 1,0,-1
+186 78 m 1,3,-1
+ 186 332 l 1,4,-1
+ 24 332 l 1,5,-1
+ 24 410 l 1,6,-1
+ 186 410 l 1,7,-1
+ 186 664 l 1,8,-1
+ 510 371 l 1,9,-1
+ 186 78 l 1,3,-1
+EndSplineSet
+EndChar

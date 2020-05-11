@@ -1,0 +1,19 @@
+StartChar: u1F86F
+Encoding: 129135 129135 1238
+Width: 636
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+51 53 m 1,0,-1
+ 51 489 l 1,1,-1
+ 136 575 l 1,2,-1
+ 136 202 l 1,3,-1
+ 521 587 l 1,4,-1
+ 585 524 l 1,5,-1
+ 200 139 l 1,6,-1
+ 572 139 l 1,7,-1
+ 486 53 l 1,8,-1
+ 51 53 l 1,0,-1
+EndSplineSet
+EndChar

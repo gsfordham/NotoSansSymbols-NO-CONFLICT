@@ -1,0 +1,10 @@
+StartChar: space_enclosingscreencomb
+Encoding: 1114174 -1 2893
+Width: 1842
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1941 8418 N 1 0 0 1 921 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 3 subtable" uni20E2 space
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 3 subtable" space uni20E2
+EndChar

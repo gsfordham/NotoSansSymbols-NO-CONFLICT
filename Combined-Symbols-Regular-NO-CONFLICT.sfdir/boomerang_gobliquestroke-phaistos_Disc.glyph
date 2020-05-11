@@ -1,0 +1,12 @@
+StartChar: boomerang_gobliquestroke-phaistosDisc
+Encoding: 1114130 -1 1722
+Width: 640
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 520 50 basechar 0
+LayerCount: 2
+Fore
+Refer: 1721 66017 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 520 50 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101E1 u101FD
+EndChar

@@ -1,0 +1,68 @@
+StartChar: topLeftCrop
+Encoding: 8975 8975 2673
+Width: 522
+Flags: W
+TtInstrs:
+NPUSHB
+ 44
+ 0
+ 0
+ 4
+ 1
+ 1
+ 2
+ 0
+ 1
+ 103
+ 0
+ 2
+ 3
+ 3
+ 2
+ 87
+ 0
+ 2
+ 2
+ 3
+ 95
+ 5
+ 1
+ 3
+ 2
+ 3
+ 79
+ 4
+ 4
+ 0
+ 0
+ 4
+ 7
+ 4
+ 7
+ 6
+ 5
+ 0
+ 3
+ 0
+ 3
+ 17
+ 6
+ 6
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+360 762 m 1,0,-1
+ 360 1011 l 1,1,-1
+ 431 1011 l 1,2,-1
+ 431 762 l 1,3,-1
+ 360 762 l 1,0,-1
+91 643 m 1,4,-1
+ 91 714 l 1,5,-1
+ 340 714 l 1,6,-1
+ 340 643 l 1,7,-1
+ 91 643 l 1,4,-1
+EndSplineSet
+EndChar

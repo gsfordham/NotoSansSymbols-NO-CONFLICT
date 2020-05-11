@@ -1,0 +1,12 @@
+StartChar: rosette_gobliquestroke-phaistosDisc
+Encoding: 1114150 -1 1762
+Width: 627
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 444 50 basechar 0
+LayerCount: 2
+Fore
+Refer: 1761 66037 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 444 50 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101F5 u101FD
+EndChar

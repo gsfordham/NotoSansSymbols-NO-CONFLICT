@@ -1,0 +1,10 @@
+StartChar: sp_gobliquestr-phaistosDisc
+Encoding: 1114177 -1 1944
+Width: 232
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1942 66045 N 1 0 0 1 116 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101FD space
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" space u101FD
+EndChar

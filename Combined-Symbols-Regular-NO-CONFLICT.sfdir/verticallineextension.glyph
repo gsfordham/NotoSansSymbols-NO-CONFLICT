@@ -1,0 +1,39 @@
+StartChar: verticallineextension
+Encoding: 9168 9168 3003
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 0
+ 0
+ 1
+ 0
+ 133
+ 2
+ 1
+ 1
+ 1
+ 118
+ 0
+ 0
+ 0
+ 3
+ 0
+ 3
+ 17
+ 3
+ 6
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+229 -243 m 1,0,-1
+ 229 1019 l 1,1,-1
+ 271 1019 l 1,2,-1
+ 271 -243 l 1,3,-1
+ 229 -243 l 1,0,-1
+EndSplineSet
+EndChar

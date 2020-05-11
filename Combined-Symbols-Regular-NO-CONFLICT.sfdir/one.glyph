@@ -1,0 +1,23 @@
+StartChar: one
+Encoding: 49 49 70
+Width: 1102
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 551 715 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+520 82 m 1,0,-1
+ 520 400 l 2,1,2
+ 520 430 520 430 520.5 456 c 128,-1,3
+ 521 482 521 482 523 509 c 1,4,5
+ 511 502 511 502 500.5 495.5 c 128,-1,6
+ 490 489 490 489 481 484 c 2,7,-1
+ 429 455 l 1,8,-1
+ 379 545 l 1,9,-1
+ 540 632 l 1,10,-1
+ 631 632 l 1,11,-1
+ 631 82 l 1,12,-1
+ 520 82 l 1,0,-1
+EndSplineSet
+EndChar

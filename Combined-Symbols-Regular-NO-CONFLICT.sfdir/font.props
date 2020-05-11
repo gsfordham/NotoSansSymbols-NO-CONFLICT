@@ -1,0 +1,97 @@
+SplineFontDB: 3.2
+FontName: NotoSymbols-FULL-NO-CONFLICT
+FullName: Noto Symbols Regular FULL NO-CONFLICT
+FamilyName: Noto Symbols FULL NO-CONFLICT
+Weight: Regular
+Copyright: Copyright 2017 Google Inc. All Rights Reserved.
+Version: 2.000;GOOG;noto-source:20170915:90ef993387c0
+ItalicAngle: 0
+UnderlinePosition: -125
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x00020000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 35 1105765983 6386626]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 1
+OS2_UseTypoMetrics: 0
+CreationTime: 1489695355
+ModificationTime: 1589179963
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 11 5 2 4 5 4 2 2 4
+OS2TypoAscent: 1069
+OS2TypoAOffset: 0
+OS2TypoDescent: -630
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1069
+OS2WinAOffset: 0
+OS2WinDescent: 630
+OS2WinDOffset: 0
+HheadAscent: 1069
+HheadAOffset: 0
+HheadDescent: -630
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 600
+OS2SubXOff: 0
+OS2SubYOff: 75
+OS2SupXSize: 650
+OS2SupYSize: 600
+OS2SupXOff: 0
+OS2SupYOff: 350
+OS2StrikeYSize: 50
+OS2StrikeYPos: 322
+OS2CapHeight: 945
+OS2XHeight: 536
+OS2Vendor: 'GOOG'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 80000003.0200e3e4.00040020.0580a048
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 0" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 0 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 1" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 3" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 3 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: maxp 16
+  1
+  0
+  2277
+  1211
+  127
+  590
+  35
+  1
+  0
+  0
+  0
+  0
+  0
+  0
+  2
+  1
+EndShort
+LangName: 1033 "" "" "" "" "" "Version 2.000;GOOG;noto-source:20170915:90ef993387c0" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an +ACIA-AS IS+ACIA BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL"
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 1114100 25 9
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 1 subtable"
+EndSplineFont

@@ -1,0 +1,12 @@
+StartChar: gauntlet_gobliquestroke-phaistosDisc
+Encoding: 1114120 -1 1702
+Width: 558
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 359 20 basechar 0
+LayerCount: 2
+Fore
+Refer: 1701 66007 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 359 20 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101D7 u101FD
+EndChar

@@ -1,0 +1,11 @@
+StartChar: dottedCircle_u102e0
+Encoding: 1114159 -1 1778
+Width: 470
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1603 66272 N 1 0 0 1 502 0 2
+Refer: 185 122 N 1 0 0 1 0 0 3
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" u102e0 uni25CC
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" uni25CC u102e0
+EndChar

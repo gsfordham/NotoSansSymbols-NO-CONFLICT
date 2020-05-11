@@ -1,0 +1,35 @@
+StartChar: countersink
+Encoding: 9013 9013 790
+Width: 976
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 3
+ 1
+ 0
+ 73
+ 1
+ 1
+ 0
+ 0
+ 118
+ 18
+ 17
+ 2
+ 6
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+488 -22 m 1,0,-1
+ 51 354 l 1,1,-1
+ 162 354 l 1,2,-1
+ 488 72 l 1,3,-1
+ 814 354 l 1,4,-1
+ 925 354 l 1,5,-1
+ 488 -22 l 1,0,-1
+EndSplineSet
+EndChar

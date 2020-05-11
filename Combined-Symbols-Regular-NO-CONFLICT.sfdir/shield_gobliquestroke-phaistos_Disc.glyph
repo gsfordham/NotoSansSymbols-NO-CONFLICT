@@ -1,0 +1,12 @@
+StartChar: shield_gobliquestroke-phaistosDisc
+Encoding: 1114124 -1 1710
+Width: 634
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 297 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1709 66011 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 297 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101DB u101FD
+EndChar

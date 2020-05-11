@@ -1,0 +1,29 @@
+StartChar: northEastArrow
+Encoding: 8599 8599 555
+Width: 750
+Flags: W
+TtInstrs:
+PUSHB_4
+ 7
+ 0
+ 1
+ 50
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+150 86 m 1,0,-1
+ 120 116 l 1,1,-1
+ 532 528 l 1,2,3
+ 489 532 489 532 423 555 c 1,4,-1
+ 448 580 l 1,5,6
+ 543 573 543 573 618 597 c 1,7,-1
+ 631 584 l 1,8,9
+ 618 548 618 548 614 505.5 c 128,-1,10
+ 610 463 610 463 614 415 c 1,11,-1
+ 589 390 l 1,12,13
+ 565 456 565 456 562 499 c 1,14,-1
+ 150 86 l 1,0,-1
+EndSplineSet
+EndChar

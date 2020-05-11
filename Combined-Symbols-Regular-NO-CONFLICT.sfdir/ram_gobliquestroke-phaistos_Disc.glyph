@@ -1,0 +1,12 @@
+StartChar: ram_gobliquestroke-phaistosDisc
+Encoding: 1114142 -1 1746
+Width: 653
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 487 130 basechar 0
+LayerCount: 2
+Fore
+Refer: 1745 66029 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 487 130 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101ED u101FD
+EndChar

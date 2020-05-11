@@ -1,0 +1,43 @@
+StartChar: water-alchemical
+Encoding: 128772 128772 1027
+Width: 874
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 0
+ 0
+ 1
+ 1
+ 0
+ 87
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 0
+ 1
+ 79
+ 18
+ 17
+ 2
+ 6
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+437 -25 m 1,0,-1
+ 50 714 l 1,1,-1
+ 824 714 l 1,2,-1
+ 437 -25 l 1,0,-1
+437 146 m 1,3,-1
+ 687 635 l 1,4,-1
+ 187 635 l 1,5,-1
+ 437 146 l 1,3,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,12 @@
+StartChar: helmet_gobliquestroke-phaistosDisc
+Encoding: 1114119 -1 1700
+Width: 446
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 313 -10 basechar 0
+LayerCount: 2
+Fore
+Refer: 1699 66006 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 313 -10 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101D6 u101FD
+EndChar

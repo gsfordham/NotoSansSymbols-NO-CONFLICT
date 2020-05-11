@@ -1,0 +1,54 @@
+StartChar: rightFloor
+Encoding: 8971 8971 548
+Width: 404
+Flags: W
+TtInstrs:
+NPUSHB
+ 33
+ 0
+ 1
+ 0
+ 1
+ 133
+ 0
+ 0
+ 2
+ 2
+ 0
+ 87
+ 0
+ 0
+ 0
+ 2
+ 95
+ 3
+ 1
+ 2
+ 0
+ 2
+ 79
+ 0
+ 0
+ 0
+ 5
+ 0
+ 5
+ 17
+ 17
+ 4
+ 6
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 -80 m 1,0,-1
+ 51 -16 l 1,1,-1
+ 281 -16 l 1,2,-1
+ 281 794 l 1,3,-1
+ 353 794 l 1,4,-1
+ 353 -80 l 1,5,-1
+ 51 -80 l 1,0,-1
+EndSplineSet
+EndChar

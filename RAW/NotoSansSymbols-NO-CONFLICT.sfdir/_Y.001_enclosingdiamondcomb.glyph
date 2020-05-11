@@ -1,0 +1,74 @@
+StartChar: Y.001_enclosingdiamondcomb
+Encoding: 1114236 -1 154
+Width: 1930
+Flags: W
+TtInstrs:
+NPUSHB
+ 39
+ 15
+ 12
+ 9
+ 7
+ 5
+ 3
+ 1
+ 7
+ 2
+ 0
+ 1
+ 76
+ 6
+ 2
+ 2
+ 0
+ 74
+ 1
+ 1
+ 0
+ 2
+ 0
+ 133
+ 3
+ 1
+ 2
+ 2
+ 118
+ 8
+ 8
+ 8
+ 16
+ 8
+ 16
+ 18
+ 26
+ 4
+ 7
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+965 -565 m 1,0,-1
+ 51 368 l 1,1,-1
+ 965 1301 l 1,2,-1
+ 1879 368 l 1,3,-1
+ 965 -565 l 1,0,-1
+965 -476 m 1,4,-1
+ 1791 368 l 1,5,-1
+ 965 1212 l 1,6,-1
+ 139 368 l 1,7,-1
+ 965 -476 l 1,4,-1
+920 -40 m 1,8,-1
+ 920 233 l 1,9,-1
+ 682 674 l 1,10,-1
+ 780 674 l 1,11,-1
+ 965 323 l 1,12,-1
+ 1151 674 l 1,13,-1
+ 1248 674 l 1,14,-1
+ 1010 237 l 1,15,-1
+ 1010 -40 l 1,16,-1
+ 920 -40 l 1,8,-1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" Y enclosingdiamondcomb
+EndChar

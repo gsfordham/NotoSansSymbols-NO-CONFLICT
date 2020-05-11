@@ -1,0 +1,12 @@
+StartChar: u102f5_u102e0
+Encoding: 1114198 -1 2222
+Width: 911
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 456 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1624 66293 N 1 0 0 1 0 0 3
+Refer: 1603 66272 N 1 0 0 1 456 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" u102f5 u102e0
+EndChar

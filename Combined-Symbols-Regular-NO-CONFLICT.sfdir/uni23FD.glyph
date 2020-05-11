@@ -1,0 +1,14 @@
+StartChar: uni23FD
+Encoding: 9213 9213 1949
+Width: 894
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+395 24 m 1,0,-1
+ 395 700 l 1,1,-1
+ 499 700 l 1,2,-1
+ 499 24 l 1,3,-1
+ 395 24 l 1,0,-1
+EndSplineSet
+EndChar

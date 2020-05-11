@@ -1,0 +1,12 @@
+StartChar: tunny_gobliquestroke-phaistosDisc
+Encoding: 1114145 -1 1752
+Width: 400
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 330 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1751 66032 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 330 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101F0 u101FD
+EndChar

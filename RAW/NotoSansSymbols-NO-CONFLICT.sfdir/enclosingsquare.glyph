@@ -1,0 +1,9 @@
+StartChar: enclosingsquare
+Encoding: 1114424 -1 1150
+Width: 1422
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1116 8414 N 1 0 0 1 711 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 1 subtable" space enclosingsquarecomb
+EndChar

@@ -1,0 +1,19 @@
+StartChar: uni2BA7
+Encoding: 11175 11175 2470
+Width: 643
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+454 -54 m 1,0,-1
+ 315 144 l 1,1,-1
+ 402 144 l 1,2,-1
+ 402 500 l 1,3,-1
+ 51 500 l 1,4,-1
+ 51 598 l 1,5,-1
+ 506 598 l 1,6,-1
+ 506 144 l 1,7,-1
+ 592 144 l 1,8,-1
+ 454 -54 l 1,0,-1
+EndSplineSet
+EndChar

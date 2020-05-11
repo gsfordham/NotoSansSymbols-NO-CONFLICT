@@ -1,0 +1,48 @@
+StartChar: angleRight
+Encoding: 9002 9002 544
+Width: 292
+Flags: W
+TtInstrs:
+NPUSHB
+ 27
+ 4
+ 1
+ 2
+ 1
+ 0
+ 1
+ 76
+ 0
+ 0
+ 1
+ 0
+ 133
+ 2
+ 1
+ 1
+ 1
+ 118
+ 0
+ 0
+ 0
+ 5
+ 0
+ 5
+ 18
+ 3
+ 6
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 -200 m 1,0,-1
+ 192 277 l 1,1,-1
+ 51 754 l 1,2,-1
+ 126 754 l 1,3,-1
+ 267 277 l 1,4,-1
+ 126 -200 l 1,5,-1
+ 51 -200 l 1,0,-1
+EndSplineSet
+EndChar

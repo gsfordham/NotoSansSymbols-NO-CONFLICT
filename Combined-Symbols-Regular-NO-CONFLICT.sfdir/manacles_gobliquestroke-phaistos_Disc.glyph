@@ -1,0 +1,12 @@
+StartChar: manacles_gobliquestroke-phaistosDisc
+Encoding: 1114126 -1 1714
+Width: 501
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 381 100 basechar 0
+LayerCount: 2
+Fore
+Refer: 1713 66013 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 381 100 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101DD u101FD
+EndChar

@@ -1,0 +1,58 @@
+StartChar: fiftyearlyform-roman
+Encoding: 8582 8582 540
+Width: 547
+Flags: W
+TtInstrs:
+NPUSHB
+ 33
+ 8
+ 7
+ 6
+ 3
+ 2
+ 1
+ 6
+ 1
+ 0
+ 1
+ 76
+ 2
+ 1
+ 1
+ 0
+ 1
+ 134
+ 0
+ 0
+ 0
+ 14
+ 0
+ 78
+ 0
+ 0
+ 0
+ 9
+ 0
+ 9
+ 20
+ 3
+ 7
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+268 -69 m 1,0,-1
+ 29 148 l 1,1,-1
+ 29 261 l 1,2,-1
+ 225 85 l 1,3,-1
+ 225 719 l 1,4,-1
+ 322 719 l 1,5,-1
+ 322 85 l 1,6,-1
+ 518 261 l 1,7,-1
+ 518 148 l 1,8,-1
+ 279 -69 l 1,9,-1
+ 268 -69 l 1,0,-1
+EndSplineSet
+EndChar

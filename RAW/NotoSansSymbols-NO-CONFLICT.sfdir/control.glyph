@@ -1,0 +1,50 @@
+StartChar: control
+Encoding: 8963 8963 807
+Width: 512
+Flags: W
+TtInstrs:
+NPUSHB
+ 28
+ 5
+ 1
+ 1
+ 0
+ 1
+ 76
+ 0
+ 0
+ 1
+ 0
+ 133
+ 3
+ 2
+ 2
+ 1
+ 1
+ 118
+ 0
+ 0
+ 0
+ 6
+ 0
+ 6
+ 17
+ 17
+ 4
+ 6
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 409 m 1,0,-1
+ 246 785 l 1,1,-1
+ 266 785 l 1,2,-1
+ 461 409 l 1,3,-1
+ 380 409 l 1,4,-1
+ 256 655 l 1,5,-1
+ 132 409 l 1,6,-1
+ 51 409 l 1,0,-1
+EndSplineSet
+EndChar

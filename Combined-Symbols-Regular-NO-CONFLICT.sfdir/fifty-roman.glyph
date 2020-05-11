@@ -1,0 +1,64 @@
+StartChar: fifty-roman
+Encoding: 8572 8572 530
+Width: 258
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 41
+LT
+IF
+NPUSHB
+ 12
+ 0
+ 0
+ 0
+ 16
+ 77
+ 2
+ 1
+ 1
+ 1
+ 15
+ 1
+ 78
+ELSE
+NPUSHB
+ 12
+ 0
+ 0
+ 0
+ 1
+ 95
+ 2
+ 1
+ 1
+ 1
+ 15
+ 1
+ 78
+EIF
+NPUSHB
+ 10
+ 0
+ 0
+ 0
+ 3
+ 0
+ 3
+ 17
+ 3
+ 7
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+85 0 m 1,0,-1
+ 85 760 l 1,1,-1
+ 173 760 l 1,2,-1
+ 173 0 l 1,3,-1
+ 85 0 l 1,0,-1
+EndSplineSet
+EndChar

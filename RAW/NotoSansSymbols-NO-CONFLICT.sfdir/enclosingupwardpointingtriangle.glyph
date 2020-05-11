@@ -1,0 +1,9 @@
+StartChar: enclosingupwardpointingtriangle
+Encoding: 1114427 -1 1153
+Width: 2028
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1117 8420 N 1 0 0 1 1014 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" space enclosingupwardpointingtrianglecomb
+EndChar

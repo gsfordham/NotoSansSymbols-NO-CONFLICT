@@ -1,0 +1,12 @@
+StartChar: papyrus_gobliquestroke-phaistosDisc
+Encoding: 1114149 -1 1760
+Width: 351
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-0" 166 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 1759 66036 N 1 0 0 1 0 0 3
+Refer: 1942 66045 N 1 0 0 1 166 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" u101F4 u101FD
+EndChar
